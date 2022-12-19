@@ -825,6 +825,14 @@ h4 {
     background-image: url("img/image-de-presentation.bmp");
 }
 
+#contact-h1{
+    color: white!important;
+}
+#contact-p{
+    color: white!important;
+    font-size: 18px;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
