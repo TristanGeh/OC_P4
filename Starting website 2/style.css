@@ -832,7 +832,9 @@ h4 {
     color: white!important;
     font-size: 18px;
 }
-
+#contact-icon{
+    color: white !important;
+}
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
