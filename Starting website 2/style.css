@@ -835,6 +835,18 @@ h4 {
 #contact-icon{
     color: white !important;
 }
+.contact-ul li a{
+    position: relative;
+    padding: 10px 15px;
+    right: 35px;
+    text-decoration: none;
+}
+.contact-ul li{
+    list-style-type: none;
+}
+.bloc{
+    padding-right: 0px;
+}
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
