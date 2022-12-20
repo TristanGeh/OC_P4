@@ -509,6 +509,9 @@ button {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
 }
+.form-group p{
+    font-size: 16px;
+}
 
 .scrollToTop {
     width: 40px;
@@ -827,10 +830,14 @@ h4 {
 
 #contact-h1{
     color: white!important;
+    position: relative;
+    z-index: 1;
 }
 #contact-p{
     color: white!important;
     font-size: 18px;
+    position: relative;
+    z-index: 1;
 }
 #contact-icon{
     color: white !important;
